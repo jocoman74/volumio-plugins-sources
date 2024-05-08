@@ -61,9 +61,9 @@
         "url": "http://stream-uk1.radioparadise.com/mp3-128"
       },
       {
-“title”: “Radio 2050 (FLAC)”,
-“uri”: “webrp/9”,
-“url”: “http://stream.radioparadise.com/radio2050-flac 3”
+       “title”: “Radio 2050 (FLAC)”,
+       “uri”: “webrp/9”,
+       “url”: “http://stream.radioparadise.com/radio2050-flac 3”
 }
     ]
   }
